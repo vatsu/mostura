@@ -60,5 +60,13 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec","Procfile","unicorn.rb","config.ru","vendor"]
+include:
+  - ".htaccess"
+exclude:
+  - "lib"
+  - "config.rb"
+  - "less"
+  - "Procfile"
+  - "unicorn.rb"
+  - "config.ru"
+  - "vendor"
