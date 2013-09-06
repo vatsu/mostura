@@ -1,28 +1,16 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+title: Sobre o Mostura
+tags: [cerveja caseira, sommelier de cervejas, zitólogo, zitófilo]
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+O Mostura nasceu para ser meu caderno de anotações para meu aprendizado no mundo da cerveja.
 
-## So Simple Theme is all about:
+Não sou **zitólogo**, especialista em cerveja, mas sou **zitófilo**, amante e apreciador da bebida fermentada com base em malte de cevada. E, vou escrever sobre tudo que aprender referente a essa bebida que acompanha a humanidade a mais de 10 mil anos.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
+Minha intenção é a de contribuir para que mais pessoas descubrar o universo de aromas, sabores e sensações que se esconde no véu da _Matrix_ das _Lite American Lager_.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+**Take the hop pill**
 
-[^1]: Example: *domain.com/category-name/post-title*
+_Gustavo Sales_

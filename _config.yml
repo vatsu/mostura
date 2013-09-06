@@ -1,48 +1,44 @@
-title:            Site Title
-description:      Describe your website here.
+title:
+description: Taking the hop pill
 logo:             site-logo.png
-disqus_shortname: 
+disqus_shortname:
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+#url:              http://your-website.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Gustavo Sales
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          me@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter: http://www.twitter.com/vatsu
+  facebook:
+  github:
+  stackexchange:
+  linkedin: http://www.linkedin.com/in/vatsu
+  instagram:
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
-  - title: Articles
+  - title: Artigos
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Sobre
+    url: /about
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Sao_Paulo
 future:      true
 pygments:    true
 markdown:    kramdown
@@ -58,11 +54,11 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec","Procfile","unicorn.rb","config.ru"]
