@@ -43,11 +43,11 @@ Pelo exercício, ficou claro que não há diferença que seja perceptível pelo 
 
 Porém, vale salientar que duas das cervejas apresentaram defeitos:
 
-A Itaipava estava com aroma de manteiga -  que indica problema na fermentação da cerveja.
+A Itaipava estava com aroma de manteiga, que indica problema na fermentação da cerveja.
 
-A Nova Schin apresentou aroma de "papelão molhado". - que indica oxidação, talvez pelo tempo de armazenamento.
+A Nova Schin apresentou aroma de "papelão molhado", que indica oxidação, talvez pelo tempo de armazenamento.
 
-Não considero mais a Itaipava uma cerveja "honesta". E quando for comprar cervejas do tipo "American Lager", vou seguir a seguinte regra: Se for para beber com meus amigos que estavam na festa, compro Heineken, se não, compro a mais barata.
+Não considero mais a Itaipava uma cerveja "honesta". E quando for comprar cervejas do tipo "American Lager", vou seguir a seguinte regra: Se for para beber com meus amigos que estavam na festa, compro Heineken. Se não, compro a mais barata.
 
 No fim das contas, cervejas "American Lager" não me chamam mais a atenção. Bebo pelo apelo social.
 
