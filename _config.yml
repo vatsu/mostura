@@ -1,7 +1,7 @@
 title:
 description: Taking the hop pill
 logo:             site-logo.png
-disqus_shortname:
+disqus_shortname: mostura
 #Comment out url when working locally to resolve base urls correctly
 #url:              http://your-website.com
 
@@ -9,7 +9,7 @@ disqus_shortname:
 owner:
   name:           Gustavo Sales
   avatar:         bio-photo.jpg
-  email:          me@email.com
+  email:          me@vatsu.com.br
   # Social networking links used in footer. Update and remove as you like.
   twitter: vatsu
   facebook:
@@ -69,4 +69,3 @@ exclude:
   - "Procfile"
   - "unicorn.rb"
   - "config.ru"
-  - "vendor"
